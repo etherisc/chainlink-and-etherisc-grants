@@ -12,7 +12,7 @@ assignees: christoph2806
 **Name of Project:** `Name of Project`
 
 **Proposal Category:** 
-Choose one of `core-dev`, `app-dev`, `devtools-libraries`, `technical-design`, `docs`
+Choose one of `prototype`, `app-dev`, `devtools-libraries`, `integration-adoption`, `technical-design`, `docs`, `research`
 
 **Proposer:** `replace with your GitHub username`
 
